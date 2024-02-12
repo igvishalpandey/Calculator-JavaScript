@@ -10,8 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(56,56,109);
-    background: linear-gradient(90deg, rgba(56,56,109,1) 49%, rgba(168,121,164,1) 87%);
+    background: #e0e3eb;
 }
 
 .container {
